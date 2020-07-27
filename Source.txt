@@ -1,0 +1,9 @@
+https://www.statcan.gc.ca/eng/start   #varies data related to Canada
+https://www.yelp.com/dataset     #Yelp Dataset
+https://developers.google.com/maps/documentation    # Google Map API
+https://www.covid-19canada.com/    #number of cases in Canada
+https://github.com/nytimes/covid-19-dat    #number of cases in US
+https://www150.statcan.gc.ca/n1/pub/82-402-x/2018001/hrbf-flrs-eng.htm  # Canada Health Region Boundary
+https://catalog.data.gov/dataset/tiger-line-shapefile-2017-nation-u-s-current-county-and-equivalent-national-shapefile  # US County Boundary
+http://bigdave44.com/features/the-mine/us-states-abbreviations-capitals-nicknames/ #US State Abbreviation
+https://github.com/ishaberry/Covid19Canada  #another source of number of cases in Canada
