@@ -1,10 +1,10 @@
 
 # Team submission:
 # team member:
-### name: Xinyi Ji ; email: xinyi.ji@mail.utoronto.ca
-### name: Cong Wei ; email: cong.wei@mail.utoronto.ca
-### name: Jincheng Leng ; email: vincent.leng@mail.utoronto.ca
-### name: Shuangzhuo Li ; email: suzy.li@mail.utoronto.ca
+### name: Xinyi Ji 
+### name: Cong Wei 
+### name: Jincheng Leng 
+### name: Shuangzhuo Li
 
 # A dashboard was created:
 ### Link: https://prod-useast-a.online.tableau.com/t/datafestcovid19/views/dashboard_final2/Dashboard1/xinyijiextra@gmail.com/11924195-7f91-42ca-94cd-0d6d9ba37f46?:display_count=n&:showVizHome=n&:origin=viz_share_link 
